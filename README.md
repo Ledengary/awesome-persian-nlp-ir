@@ -213,6 +213,7 @@ This list is curation of the best, not of everything. Please participate in its 
   - [A New Hybrid Stemming Method for Persian Language](http://dsh.oxfordjournals.org/content/early/2015/11/06/llc.fqv053) [(link2)](http://dx.doi.org.sci-hub.cc/10.1093/llc/fqv053)
   - [Sentiment analysis using deep learning on Persian texts](http://ieeexplore.ieee.org/document/7985281/) [(PDF Link)](http://bayanbox.ir/info/1313132063660147282/roshanfekr2017) 
   - [LSCP: Enhanced Large Scale Colloquial Persian Language Understanding](https://www.aclweb.org/anthology/2020.lrec-1.776/)
+  - [Defeating Author Gender Identification with Text Style Transfer](https://arxiv.org/abs/2009.01040)
 
 ## Contribute
 
